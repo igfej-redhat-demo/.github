@@ -4,5 +4,5 @@ This organization contains private repos involved in the DEMO activities with th
 
 Main repositories:
 - [Install manifests and scripts](../../../../install/)
-- [3scale API Products](../../../ThreescaleAPIProducts/)
-- [3scale Developer Portal Customization](../../../ThreescaleDeveloperPortalCustomizations/)
+- [3scale API Products](../../../../ThreescaleAPIProducts/)
+- [3scale Developer Portal Customization](../../../../ThreescaleDeveloperPortalCustomizations/)
